@@ -1,6 +1,6 @@
 # OnlineShopping Web application
 
-Deployed on: [Click here](https://online-shopv.herokuapp.com)
+Deployed on: [https://online-shopv.herokuapp.com](https://online-shopv.herokuapp.com)
 
 ### Tech stack used
 1. Backend: Nodejs with express
